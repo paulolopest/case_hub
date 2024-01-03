@@ -1,4 +1,4 @@
-live site: https://course-frontend-mu.vercel.app/login
+Live site: https://course-frontend-mu.vercel.app/login
 
 Frontend: https://github.com/paulolopest/course_frontend
 
