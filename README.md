@@ -46,7 +46,7 @@ Este projeto consiste em um sistema de gerenciamento de cursos, com funcionalida
 - O sistema utiliza links de CDN para imagens.
 
 ## Como Executar o Projeto
-1. Clone o repositório um dos repositórios: 
+1. Clone um dos repositórios: 
 2. Instale as dependências: `npm install`
 3. Execute o código: `npm run dev`
 
